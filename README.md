@@ -4,12 +4,8 @@
 
 ## 👨‍💻 Professional Experience
 
-- **Senior Analyst at Accenture, Bangalore, India (Sep 2022 - Dec 2022)**
-  - Led ServiceNow Development and Integration projects, enhancing process efficiency by 30%.
-  - Pioneered a data quality framework, reducing data inconsistencies by 30%.
-  - Developed Python-based ML models for predictive analytics, significantly impacting sales strategies.
 
-- **System Engineer at Tata Consultancy Services, Kolkata, India (Nov 2018 - Sep 2022)**
+- **Data Analyst at Tata Consultancy Services, Kolkata, India (Nov 2018 - Sep 2022)**
   - Developed automation tools in Power BI and SQL, boosting productivity by 15%.
   - Led the deployment of a cloud-based data storage solution, improving data retrieval efficiency by 35%.
   - Enhanced application reliability and reduced critical incidents by 25% through analytics solutions.
